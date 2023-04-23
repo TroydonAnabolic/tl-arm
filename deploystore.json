@@ -16,6 +16,7 @@
       "sku": {
         "name": "Standard_LRS"
       },
+      "location":  "australiasoutheast",
       "kind": "StorageV2"
     }
   ]
